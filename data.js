@@ -1,6 +1,6 @@
 const WEDDING = {
   couple: { person1: "Ibrahim", person2: "Khadijat", hashtag: "#OurUnion2027" },
-  wedding: { dateISO: "2026-10-03T10:00:00", dateDisplay: "Saturday, 02 October 2026", city: "Motel5 hotel Before NNPC mega station, Felele, Lokoja, Kogi state, Nigeria", venue: "Wedding Fatiha", programme: "Engagement", reception: "Reception follows immediately", colourCode: "Emerald, Ivory & Gold" },
+  wedding: { dateISO: "2026-10-03T10:00:00", dateDisplay: "02 October 2026 a DSO beside GT Plaza. Lokoja, Kogi state", city: "Motel5 hotel Before NNPC mega station, Felele, Lokoja, Kogi state, Nigeria", venue: "Wedding Fatiha", programme: "Engagement", reception: "Reception follows immediately", colourCode: "Emerald, Ivory & Gold" },
   intro: { eyebrow: "Welcome to our", message: "Thank you for celebrating our love and supporting our new beginning." },
   story: { verse: "“And of His signs is that He created for you from yourselves mates that you may find tranquility in them, and He placed between you affection and mercy.” — Qur'an 30:21", paragraphs: ["Write how the couple met here.", "Add an important milestone in their journey.", "Close with a message of gratitude to family and friends."], closing: "Two hearts, one journey, a lifetime ahead." },
   contacts: [{ name: "RSVP Contact 1", phone: "+23412345678", whatsapp: "000000000000" }, { name: "RSVP Contact 2", phone: "+000000000000", whatsapp: "000000000000" }],
