@@ -1,5 +1,5 @@
 const WEDDING = {
-  couple: { person1: "Khadijat", person2: "Ibrahim", hashtag: "#OurUnion2027" },
+  couple: { person1: "Ibrahim", person2: "Khadijat", hashtag: "#OurUnion2027" },
   wedding: { dateISO: "2026-10-03T10:00:00", dateDisplay: "Saturday, 03 October 2026", city: "Lokoja,Kogi Nigeria", venue: "Wedding Venue", programme: "Nikah & Engagement", reception: "Reception follows immediately", colourCode: "Emerald, Ivory & Gold" },
   intro: { eyebrow: "Welcome to our", message: "Thank you for celebrating our love and supporting our new beginning." },
   story: { verse: "“And of His signs is that He created for you from yourselves mates that you may find tranquility in them, and He placed between you affection and mercy.” — Qur'an 30:21", paragraphs: ["Write how the couple met here.", "Add an important milestone in their journey.", "Close with a message of gratitude to family and friends."], closing: "Two hearts, one journey, a lifetime ahead." },
